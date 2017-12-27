@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 Add some introduction
 
 ## Purpose
+Add some purpose
 
 ## How To Contribute
 
