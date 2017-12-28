@@ -10,4 +10,10 @@ Add some purpose
 
 ## How To Contribute
 
+Add how to citribute
+
 Sample website with plenty of files for demos
+
+Add another modify
+
+This is the last one
